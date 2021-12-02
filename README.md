@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nyctophilus "MOhammed"
+- 👋 Hi, I’m @Nyctophilus "Muhammed"
 - 👀 I’m interested in Mobile and Web Development
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on flutter web platform to improve performance.
