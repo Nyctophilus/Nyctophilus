@@ -52,7 +52,7 @@
 <br>
 
 <div >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nyctophilus&show_icons=true&theme=aura_dark"/>
+<img width=50% align="left" src="https://github-readme-stats.vercel.app/api?username=Nyctophilus&show_icons=true&theme=aura_dark"/>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyctophilus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
