@@ -18,7 +18,7 @@
 <g-emoji>💫</g-emoji>CSS <br>
 <g-emoji>🚸</g-emoji>JAVASCRIPT <br>
 <g-emoji>🎄</g-emoji> REACT <br>
-<g-emoji>🎁</g-emoji> Flutter <br>
+<g-emoji>🔣</g-emoji> Flutter <br>
 <br>
 
 <hr>
