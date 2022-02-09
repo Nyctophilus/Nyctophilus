@@ -4,10 +4,10 @@
  
  <br>
  
-- 👀 **Frontend Dev**. 
-- 🌱 I’m currently learning *``react``*.
-- 💞️ Recently, i took interest in flutter. looking to collaborate on flutter web to improve.
-- 📫 How to reach me mohammed.yuossry@gmail.com
+- 👀 **Frontend Web Developer**. 
+- 🌱 I’m currently learning *``JavaScript``*.
+- 💞️ I'm looking forward to be fullstack JS Developer.
+- 📫 You can contact me on *mohammed.yuossry@gmail.com*
 
 <br>
 <hr>
@@ -31,6 +31,8 @@
     />
   </a>
   </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  
+  <br><br>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
