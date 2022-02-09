@@ -94,6 +94,8 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyctophilus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
+ <br>
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyctophilus&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=18DADD)](https://git.io/streak-stats)
   
 
