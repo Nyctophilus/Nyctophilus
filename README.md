@@ -12,7 +12,7 @@
 <br>
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> 
    <a href="" target="_blank" rel="noreferrer" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
