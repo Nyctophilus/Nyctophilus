@@ -5,28 +5,35 @@
  <br>
  
 - 👀 **Frontend Web Developer**. 
-- 🌱 I’m currently learning *``JavaScript``*.
+- 🌱 I’m currently learning *``React``*.
 - 💞️ I'm looking forward to be fullstack JS Developer.
 - 📫 You can contact me on *mohammed.yuossry@gmail.com*
 
 <br>
 <hr>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left"> 
-   <a href="" target="_blank" rel="noreferrer" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
-      alt="html" width="40" height="40"/></a>
- 
-   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="html"
-      width="40" height="40"/></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" width="40" height="40" alt="pugjs">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   
-  <br><br>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<br>
+ 
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+
+</p>
 
 
 <hr>
@@ -41,44 +48,31 @@
 </thead>
 <tbody>
  <tr>
-<td><a href="https://codepen.io/nyctophilus" target="blank"
-    ><img
+<td><a href="https://codepen.io/nyctophilus" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="nyctophilus"
-      height="30"
-      width="40"
-  /></a></td>
+      alt="nyctophilus" height="30" width="40"/></a></td>
 <td align="center"><a href="https://codepen.io/nyctophilus">Codepen Profile</a></td>
-</tr>
- <tr>
-<td><a href="https://nyctophilus.github.io/Portfolio-Website/"><img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width: 100%;"></a></td>
-<td align="center"><a href="https://nyctophilus.github.io/Portfolio-Website/">My Portofolio Website!</a></td>
 </tr>
  
  <tr>
-<td><a
-    href="https://linkedin.com/in/muhammed22"
-    target="blank"
-    ><img
-      align="center"
+<td><a href="https://nyctophilus.github.io/Portfolio-Website/"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
+<td align="center"><a href="">My Portofolio</a></td>
+</tr>
+ 
+ <tr>
+<td><a href="https://linkedin.com/in/muhammed22" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="muhammed22"
-      height="30"
-      width="40"
-  /></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/muhammed22/">Muhammed Yousry</a></td>
+      alt="muhammed22" height="30" width="40"/></a>
+ </td>
+<td align="center"><a href="https://www.linkedin.com/in/muhammed22/">Linkedin Profile</a></td>
 </tr>
  
 <tr>
-<td><a href="https://twitter.com/ofstonecold" target="blank"
-    ><img
-      align="center"
+<td><a href="https://twitter.com/ofstonecold" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ofstonecold"
-      height="30"
-      width="40"
-  /></a></td>
+      alt="ofstonecold" height="30" width="40"/></a>
+ </td>
 <td align="center"><a href="https://twitter.com/ofstonecold">@ofstonecold</a></td>
 </tr>
 
