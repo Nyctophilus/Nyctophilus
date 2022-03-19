@@ -47,6 +47,14 @@
 </tr>
 </thead>
 <tbody>
+ 
+ 
+  <tr>
+<td><a href="https://nyctophilus.github.io/Portfolio-Website/"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
+<td align="center"><a href="">My Portofolio</a></td>
+</tr>
+ 
+ 
  <tr>
 <td><a href="https://codepen.io/nyctophilus" target="blank"><img
       align="center"
@@ -55,10 +63,7 @@
 <td align="center"><a href="https://codepen.io/nyctophilus">Codepen Profile</a></td>
 </tr>
  
- <tr>
-<td><a href="https://nyctophilus.github.io/Portfolio-Website/"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
-<td align="center"><a href="">My Portofolio</a></td>
-</tr>
+
  
  <tr>
 <td><a href="https://linkedin.com/in/muhammed22" target="blank"><img align="center"
