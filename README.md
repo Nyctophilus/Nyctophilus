@@ -51,7 +51,7 @@
  
  
   <tr>
-<td><a href="https://nyctophilus.github.io/Portfolio-Website/"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
+<td><a href="https://nyctophilus.github.io/Portfolio"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
 <td align="center"><a href="">My Portofolio</a></td>
 </tr>
  
