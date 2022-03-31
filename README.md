@@ -52,7 +52,7 @@
  
   <tr>
 <td><a href="https://nyctophilus.github.io/Portfolio" target="_blank"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
-<td align="center"><a href="https://nyctophilus.github.io/Portfolio" target="_blank">My Portofolio</a></td>
+<td align="center"><a href="https://nyctophilus.github.io/Portfolio" target="blank">My Portofolio</a></td>
 </tr>
  
  
