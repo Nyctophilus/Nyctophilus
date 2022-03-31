@@ -51,35 +51,35 @@
  
  
   <tr>
-<td><a href="https://nyctophilus.github.io/Portfolio"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
-<td align="center"><a href="https://nyctophilus.github.io/Portfolio">My Portofolio</a></td>
+<td><a href="https://nyctophilus.github.io/Portfolio" target="_blank"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
+<td align="center"><a href="https://nyctophilus.github.io/Portfolio" target="_blank">My Portofolio</a></td>
 </tr>
  
  
  <tr>
-<td><a href="https://codepen.io/nyctophilus" target="blank"><img
+<td><a href="https://codepen.io/nyctophilus" target="_blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
       alt="nyctophilus" height="30" width="40"/></a></td>
-<td align="center"><a href="https://codepen.io/nyctophilus">Codepen Profile</a></td>
+<td align="center"><a href="https://codepen.io/nyctophilus" target="_blank">Codepen Profile</a></td>
 </tr>
  
 
  
  <tr>
-<td><a href="https://linkedin.com/in/muhammed22" target="blank"><img align="center"
+<td><a href="https://linkedin.com/in/muhammed22" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="muhammed22" height="30" width="40"/></a>
  </td>
-<td align="center"><a href="https://www.linkedin.com/in/muhammed22/">Linkedin Profile</a></td>
+<td align="center"><a href="https://www.linkedin.com/in/muhammed22/" target="_blank">Linkedin Profile</a></td>
 </tr>
  
 <tr>
-<td><a href="https://twitter.com/ofstonecold" target="blank"><img align="center"
+<td><a href="https://twitter.com/ofstonecold" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="ofstonecold" height="30" width="40"/></a>
  </td>
-<td align="center"><a href="https://twitter.com/ofstonecold">@ofstonecold</a></td>
+<td align="center"><a href="https://twitter.com/ofstonecold" target="_blank">@ofstonecold</a></td>
 </tr>
 
 </tbody>
