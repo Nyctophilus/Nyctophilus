@@ -1,6 +1,6 @@
 <img align="left" height="100px" width="100px" src="https://github.com/Nyctophilus/Portfolio-Website/blob/main/assets/img/logo.jpg">
  
- <h1>✨Hola, I’m Muhammed  <a target="_blank" rel="noopener noreferrer" ><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" style="max-width: 100%;"></a></h1>
+ <h1>✨Hola, I’m Muhammed  <a target="_blank" rel="noopener noreferrer" ><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></a></h1>
  
  <br>
  
