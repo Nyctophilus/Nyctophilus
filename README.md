@@ -22,8 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" width="40" height="40" alt="pugjs">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp">
- <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="40" height="40" alt="express">
+<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="40" alt="express">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/>
   
 <br>
 <br>
