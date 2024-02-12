@@ -4,16 +4,15 @@
  
  <br>
  
-- 👀 **Frontend Web Developer**. 
-- 🌱 I’m currently learning *``React``*.
-- 💞️ I'm looking forward to be fullstack JS Developer.
+- 👀 **Full Stack Developer**. 
+- 🌱 I focus on Reactjs/Nextjs, but i make full stack apps using Reactjs|Nextjs|Mongoose|Tailwind.
 - 📫 You can contact me on *mohammed.yuossry@gmail.com*
 
 <br>
 <hr>
 
 <h3 align="left">Technologies:</h3>
-<p align="left"> 
+<div align="left"> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.png" alt="html" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/>
@@ -23,20 +22,14 @@
 <img src="https://github.com/pugjs.png" width="40" height="40" alt="pugjs">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp">
 <img src="https://github.com/expressjs.png" height="40" alt="express">
+<img src="https://github.com/nodejs.png" height="40" alt="express">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="40" height="40"/>
 <img src="https://github.com/reduxjs.png" alt="redux" width="40" height="40"/>
- 
-<br>
-<br>
- 
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-
-</p>
+<img src="https://github.com/nextjs.png" alt="redux" width="40" height="40"/>
+<img src="https://github.com/tailwind.png" alt="redux" width="40" height="40"/>
+<img src="https://github.com/mongoosejs.png" alt="redux" width="40" height="40"/>
+</div>
 
 
 <hr>
@@ -53,11 +46,11 @@
  
  
   <tr>
-<td><a href="https://nyctophilus.github.io/Portfolio" target="_blank"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
-<td align="center"><a href="https://nyctophilus.github.io/Portfolio" target="blank">My Portofolio</a></td>
+<td><a href="https://portfolio-24-omega.vercel.app/" target="_blank"><img align="center" height="30" width="40" src="https://www.svgrepo.com/show/40309/earth-globe.svg" "></a></td>
+<td align="center"><a href="https://portfolio-24-omega.vercel.app/" target="_blank">My Portofolio</a></td>
 </tr>
  
- 
+
  <tr>
 <td><a href="https://codepen.io/nyctophilus" target="_blank"><img
       align="center"
