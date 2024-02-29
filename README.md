@@ -4,7 +4,7 @@
  
  <br>
  
-- 👀 **Full Stack Developer**. 
+- 👀 **FullStack (MERN) Developer**. 
 - 🌱 I focus on Reactjs/Nextjs, but i make full stack apps using Reactjs|Nextjs|Mongoose|Tailwind.
 - 📫 You can contact me on *mohammed.yuossry@gmail.com*
 
